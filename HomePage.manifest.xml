@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataInfo>
+  <Encrypted>True</Encrypted>
+  <KeyEncryption algorithm="RSA2048"></KeyEncryption>
+  <DataEncryption algorithm="AES128">
+    <AESEncryptedKeyValue>
+      <Key>w6Di7BxZbM/SVqxksxVtdtaMKj1+8w2fvHdiTnqYcytI/sB5KooCaLoUJpppfR2pr4MaLOFwuukJMFAnMmv0zJGgJZGIaHrwiQeKdLIEx1Ge6sJzIzhh2lR/dk1SjoamRoK/cJe+C/8Uemd/UnDL/kpbRQYmPA+6I3w67NiGV7MexYJ511W/JPl/0F4QTo6obJCnLoa8uhmhmyhqdCd8iRQMFxmCMtGBUZuoztBpe46mKBoJWLtMzzxsaY0zh7Jb51UeDQlQZm3FJSzCdaX7+LEpSZpnyjeoxltfEOam4KJ+Hq/OCXKKnGnChI3QEMfeC058ObWMfC7uEyPT+Kgdbw==</Key>
+      <IV>yuZzhxnblrdRJl+fT2aVIQhGXrrlZPsy+crTpzFrizWDD9eOgWXwG++wzWI3f8sxPhnOuZgoQeLIsWcAanbHrgZQzwi5JTWh5aR2ThLGRphvJzKSjRQkyLhkhTsZlUOaNXSaPFQBvOqbkI4iy2GWT/JrN+FyeE6kPuG2EgYwsHAcxsgf+fkkAHW3f0Ry+G2Rw/wNJHo6LHdJbC1TZvTCgDJs67MMQNiCZEwq0ylmP57oc8wHXtudTEvnWkIrcj6g7/fZ4tlw8KrhFqAu0UESCOLuonaaYt1QmXxQZbZnDOaxmoWLq1SPMoeRjznExWJQ4RynbdwmJYVi8aRl9cCmHg==</IV>
+    </AESEncryptedKeyValue>
+  </DataEncryption>
+  <DataSignature algorithm="HMACSHA256">
+    <Value>waZvGLPNA/0rXHpznG0VVj5v4/KYfPPcldTF6l1nHv4=</Value>
+    <EncryptedKey>Tfh7IWsJVOdITh8G/auUkdk1xBf1zhHR6J+HBuu2bQKFBU7X6uGYIQTLclZp21K0e7HD7RNoojF+SlRuyf27Y9z2+L5DWNiLSJ5o625NOpVOufV+DUW3Xe4GA2400HPcOD0tUSPZ6UuxbTL4XCER9pjx90tIuEj+mEb+1ZOGn8zdYfnYXyQ7SJjZcceo7Qvn6wSFjogyTMoqc+WzMTt9KQMkimF6EA0lrngB/G/RUvWV5udDlPaogF+L2rphfsnn8EpkNHexwmQ7MpwJZmCjP5X+ey5YkkkFXb1XmB69HnmwxzkceDP6r0jGljnlNoQqDtK7/gcREimEUlz961RaCQ==</EncryptedKey>
+  </DataSignature>
+</DataInfo>

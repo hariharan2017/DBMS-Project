@@ -1,0 +1,55 @@
+ h1{
+	background: linear-gradient(35deg, #4e54c8, #8f94fb); 
+	text-align: center;
+  }
+
+  .button-design {
+    text-align: center;
+    color: white;
+    background-color: #0020C2;
+    border-radius: 20px;
+    width: 125px;
+}
+
+ div {
+   width: 350px;
+   height: 350px;
+   position: fixed;
+   top: 10%;
+   left: 40%;
+   background: linear-gradient(60deg, #a1c4fd, #c2e9fb);
+   box-shadow: 0 10px 20px rgba(0,0,0,0.7);
+}
+
+
+  body{
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba	(0,0,0,0.23);
+  }
+
+  body::after {
+  	content: "";
+  	background: url(University.jpg);
+  	opacity: 0.3;
+  	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;
+  	position: absolute;
+  	z-index: -1;   
+   }
+
+.user{ 
+  display: block;
+  width: 125px;
+  height: 30px;
+  border-radius: 25px;
+  padding: 0 30px 0 68px;
+}
+
+.pass{
+  display: block;
+  width: 125px;
+  height: 30px;
+  border-radius: 25px;
+  padding: 0 30px 0 68px;
+}
